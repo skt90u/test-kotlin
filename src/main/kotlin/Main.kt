@@ -7,7 +7,6 @@ fun main(args: Array<String>) {
     var d:String? = null;
     var length: Int
 
-    length
     println("sum(${a}, ${b}) = ${c}")
 
     // Try adding program arguments via Run/Debug configuration.
